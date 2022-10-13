@@ -2,7 +2,7 @@
   "name": "weather-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vatsal-dixit.github.io",
+  "homepage": "https://vatsal-dixit.github.io/project-4/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^4.2.4",
